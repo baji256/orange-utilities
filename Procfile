@@ -1,0 +1,1 @@
+web: java -jar build/libs/orange-utilities-0.0.1.jar --server.port=$PORT
